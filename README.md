@@ -1,0 +1,1 @@
+# YOLOv11-ile-Bilgisayarl-G-r-Pratikleri
