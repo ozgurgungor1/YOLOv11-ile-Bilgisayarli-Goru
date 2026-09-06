@@ -1,1 +1,1 @@
-# YOLOv11-ile-Bilgisayarl-G-r-Pratikleri
+# YOLOv11-ile-Bilgisayarlı-Gör-Pratikleri
